@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nil Torres Parellada</h1>
-<h3 align="center">I'm a 23-year-old boy from barcelona about to graduate from the Universitat Autònoma de Barcelona with a dual degree in Computer Engineering and Telecommunications Electronics Engineering. I am passionate about technology and have gained practical experience in various fields, including hardware and software development, microcontrollers, cybersecurity, web design, and database administration since I was 12 years old.</h3>
+<h3 align="center">I'm a 23-year-old boy from Barcelona about to graduate from the Universitat Autònoma de Barcelona with a dual degree in Computer Engineering and Telecommunications Electronics Engineering. I am passionate about technology and have gained practical experience in various fields, including hardware and software development, microcontrollers, cybersecurity, web design, and database administration since I was 12 years old.</h3>
 
 - 📫 Reach me **niltopa@gmail.com**
 
