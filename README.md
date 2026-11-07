@@ -247,11 +247,11 @@ Also on the floor with AEInnova at Smart City Expo, MWC, IOTSWC, Advanced Factor
 
 ## Stack I actually use
 
-From the CV, day job, portfolio builds and side experiments. Grouped so the signal stays clear.
+From the CV, day job, portfolio builds, side experiments and the tools installed on this workstation. Grouped so the signal stays clear.
 
 **Domain**
 
-`Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Network engineering` · `TCP/IP` · `Hardware architecture` · `Circuit design` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile`
+`Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Network engineering` · `TCP/IP` · `Hardware architecture` · `Circuit design` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile` · `AI tooling`
 
 **Languages & runtimes**
 
@@ -260,6 +260,7 @@ From the CV, day job, portfolio builds and side experiments. Grouped so the sign
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
@@ -268,6 +269,7 @@ From the CV, day job, portfolio builds and side experiments. Grouped so the sign
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 **Web & product**
@@ -283,6 +285,7 @@ From the CV, day job, portfolio builds and side experiments. Grouped so the sign
   <img src="https://img.shields.io/badge/Monaco_Editor-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Monaco Editor" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/REST_APIs-181922?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Chrome_extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome extensions" />
 </p>
 
 **Backend & data**
@@ -292,29 +295,38 @@ From the CV, day job, portfolio builds and side experiments. Grouped so the sign
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 17" />
+  <img src="https://img.shields.io/badge/pgAdmin_4-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin 4" />
   <img src="https://img.shields.io/badge/NoSQL-181922?style=flat-square" alt="NoSQL" />
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
   <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square" alt="NextAuth" />
 </p>
 
-**Cloud, DevOps & ops**
+**Cloud, containers & DevOps**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Desktop" />
+  <img src="https://img.shields.io/badge/docker--compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker-compose" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="kubectl" />
+  <img src="https://img.shields.io/badge/WSL2-0078D4?style=flat-square&logo=linux&logoColor=white" alt="WSL2" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_CLI-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub CLI" />
+  <img src="https://img.shields.io/badge/GitHub_Desktop-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Desktop" />
   <img src="https://img.shields.io/badge/CI%2FCD-181922?style=flat-square" alt="CI/CD" />
   <img src="https://img.shields.io/badge/DevOps-7b91ff?style=flat-square" alt="DevOps" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Chocolatey-181922?style=flat-square" alt="Chocolatey" />
 </p>
 
 **Industrial IoT & connectivity**
 
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/MQTT_Explorer-7b91ff?style=flat-square" alt="MQTT Explorer" />
   <img src="https://img.shields.io/badge/LoRaWAN-1F3FD0?style=flat-square" alt="LoRaWAN" />
   <img src="https://img.shields.io/badge/ChirpStack-7b91ff?style=flat-square" alt="ChirpStack" />
   <img src="https://img.shields.io/badge/NB--IoT-e07a45?style=flat-square" alt="NB-IoT" />
@@ -322,21 +334,60 @@ From the CV, day job, portfolio builds and side experiments. Grouped so the sign
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" alt="Node-RED" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth" />
+  <img src="https://img.shields.io/badge/qFlipper-e07a45?style=flat-square" alt="qFlipper / Flipper Zero" />
 </p>
 
-**Embedded & hardware**
+**Embedded, mobile & hardware**
 
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-CAM" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE" />
   <img src="https://img.shields.io/badge/LilyPad-00979D?style=flat-square&logo=arduino&logoColor=white" alt="LilyPad" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/FRDM--KL25Z-181922?style=flat-square" alt="FRDM-KL25Z" />
   <img src="https://img.shields.io/badge/CodeWarrior-181922?style=flat-square" alt="CodeWarrior" />
   <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
   <img src="https://img.shields.io/badge/COCO--SSD-181922?style=flat-square" alt="COCO-SSD" />
   <img src="https://img.shields.io/badge/Fritzing-181922?style=flat-square" alt="Fritzing" />
   <img src="https://img.shields.io/badge/HC--05-0082FC?style=flat-square" alt="HC-05" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi_Imager-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Imager" />
+  <img src="https://img.shields.io/badge/balenaEtcher-181922?style=flat-square" alt="balenaEtcher" />
+  <img src="https://img.shields.io/badge/3uTools-181922?style=flat-square" alt="3uTools" />
+</p>
+
+**Editors & workstation**
+
+<p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Build_Tools-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio Build Tools" />
+  <img src="https://img.shields.io/badge/MobaXterm-181922?style=flat-square" alt="MobaXterm" />
+  <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Office_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white" alt="Office 365" />
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white" alt="Brave" />
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome" />
+</p>
+
+**Networks, remote & security tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-181922?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Zenmap-181922?style=flat-square" alt="Zenmap" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+  <img src="https://img.shields.io/badge/Windscribe-181922?style=flat-square" alt="Windscribe" />
+  <img src="https://img.shields.io/badge/RustDesk-181922?style=flat-square" alt="RustDesk" />
+  <img src="https://img.shields.io/badge/AnyDesk-181922?style=flat-square" alt="AnyDesk" />
+  <img src="https://img.shields.io/badge/ESET-181922?style=flat-square" alt="ESET" />
+</p>
+
+**Local AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-181922?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/ComfyUI-7b91ff?style=flat-square" alt="ComfyUI / Comfy Desktop" />
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" />
 </p>
 
 **Web3 & experiments**
@@ -351,15 +402,31 @@ From the CV, day job, portfolio builds and side experiments. Grouped so the sign
   <img src="https://img.shields.io/badge/Moralis-0B0B0B?style=flat-square" alt="Moralis" />
 </p>
 
-**3D, CAD & physical**
+**3D, CAD, print & XR**
 
 <p>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/OpenSCAD-F9D72C?style=flat-square&logoColor=black" alt="OpenSCAD" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/AutoCAD-E51E25?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
   <img src="https://img.shields.io/badge/CAD-181922?style=flat-square" alt="CAD" />
+  <img src="https://img.shields.io/badge/ElegooSlicer-e07a45?style=flat-square" alt="ElegooSlicer" />
+  <img src="https://img.shields.io/badge/ELEGOO_SatelLite-e07a45?style=flat-square" alt="ELEGOO SatelLite" />
+  <img src="https://img.shields.io/badge/UVtools-181922?style=flat-square" alt="UVtools" />
   <img src="https://img.shields.io/badge/FDM_3D_print-e07a45?style=flat-square" alt="FDM 3D print" />
+  <img src="https://img.shields.io/badge/Meta_Quest-000000?style=flat-square" alt="Meta Quest / Horizon" />
+  <img src="https://img.shields.io/badge/SteamVR-171a21?style=flat-square&logo=steam&logoColor=white" alt="SteamVR" />
+</p>
+
+**Media & capture**
+
+<p>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square" alt="DaVinci Resolve" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square" alt="CapCut" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/OBS_/_ShadowPlay-181922?style=flat-square" alt="NVIDIA ShadowPlay" />
 </p>
 
 **Engineering (degree & lab)**
@@ -370,6 +437,14 @@ From the CV, day job, portfolio builds and side experiments. Grouped so the sign
   <img src="https://img.shields.io/badge/VHDL-181922?style=flat-square" alt="VHDL" />
   <img src="https://img.shields.io/badge/App_Inventor-0F9D58?style=flat-square" alt="App Inventor" />
   <img src="https://img.shields.io/badge/LanguageTool-181922?style=flat-square" alt="LanguageTool" />
+</p>
+
+**Collaboration**
+
+<p>
+  <img src="https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" />
+  <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat-square&logo=zoom&logoColor=white" alt="Zoom" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </p>
 
 **How I work**
