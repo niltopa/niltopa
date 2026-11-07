@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Practice domains: Industrial IoT, Web platforms, Hardware, 3D">
+  <rect width="1200" height="160" fill="#101118"/>
+  <rect x="1" y="1" width="1198" height="158" fill="none" stroke="#ebeae2" stroke-opacity="0.12"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="36" y="36" fill="#9a9b94" font-size="12" letter-spacing="3">FIELD OF PRACTICE</text>
+
+    <rect x="36" y="56" width="260" height="72" fill="#181922" stroke="#7b91ff" stroke-opacity="0.45"/>
+    <text x="56" y="88" fill="#7b91ff" font-size="12" letter-spacing="2">01</text>
+    <text x="56" y="112" fill="#ebeae2" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">Industrial IoT</text>
+
+    <rect x="316" y="56" width="260" height="72" fill="#181922" stroke="#ebeae2" stroke-opacity="0.18"/>
+    <text x="336" y="88" fill="#9a9b94" font-size="12" letter-spacing="2">02</text>
+    <text x="336" y="112" fill="#ebeae2" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">Web platforms</text>
+
+    <rect x="596" y="56" width="260" height="72" fill="#181922" stroke="#ebeae2" stroke-opacity="0.18"/>
+    <text x="616" y="88" fill="#9a9b94" font-size="12" letter-spacing="2">03</text>
+    <text x="616" y="112" fill="#ebeae2" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">Hardware / edge</text>
+
+    <rect x="876" y="56" width="288" height="72" fill="#181922" stroke="#e07a45" stroke-opacity="0.45"/>
+    <text x="896" y="88" fill="#e07a45" font-size="12" letter-spacing="2">04</text>
+    <text x="896" y="112" fill="#ebeae2" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">3D / objects</text>
+  </g>
+</svg>

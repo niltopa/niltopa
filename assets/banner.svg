@@ -1,48 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="NIL · Things I build.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="NIL · Things I build.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#101118"/>
-      <stop offset="55%" stop-color="#14151d"/>
+      <stop offset="0%" stop-color="#0c0d12"/>
+      <stop offset="50%" stop-color="#101118"/>
       <stop offset="100%" stop-color="#181922"/>
     </linearGradient>
     <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#7b91ff" stop-opacity="0"/>
-      <stop offset="45%" stop-color="#7b91ff" stop-opacity="0.55"/>
-      <stop offset="70%" stop-color="#e07a45" stop-opacity="0.45"/>
+      <stop offset="40%" stop-color="#7b91ff" stop-opacity="0.7"/>
+      <stop offset="75%" stop-color="#e07a45" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#e07a45" stop-opacity="0"/>
     </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ebeae2" stroke-opacity="0.05" stroke-width="1"/>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7b91ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e07a45" stop-opacity="0.15"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ebeae2" stroke-opacity="0.045" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="360" fill="url(#bg)"/>
-  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+  <rect x="0" y="0" width="6" height="420" fill="#7b91ff"/>
 
-  <rect x="48" y="36" width="1104" height="288" fill="none" stroke="#ebeae2" stroke-opacity="0.12" stroke-width="1"/>
-  <line x1="48" y1="72" x2="1152" y2="72" stroke="#ebeae2" stroke-opacity="0.1"/>
-  <line x1="48" y1="288" x2="1152" y2="288" stroke="#ebeae2" stroke-opacity="0.1"/>
+  <rect x="40" y="28" width="1120" height="364" fill="none" stroke="#ebeae2" stroke-opacity="0.12"/>
+  <line x1="40" y1="68" x2="1160" y2="68" stroke="#ebeae2" stroke-opacity="0.1"/>
+  <line x1="40" y1="348" x2="1160" y2="348" stroke="#ebeae2" stroke-opacity="0.1"/>
 
-  <text x="72" y="60" fill="#9a9b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">NTP-001 · BARCELONA · 2026</text>
-  <text x="980" y="60" fill="#7b91ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2">LIVE SYSTEMS</text>
+  <text x="64" y="54" fill="#9a9b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">NTP-001 · NIL TORRES PARELLADA · BARCELONA</text>
+  <text x="900" y="54" fill="#e07a45" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">COMMISSIONS OPEN</text>
 
-  <text x="72" y="170" fill="#ebeae2" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="96" font-weight="800" letter-spacing="-4">NIL</text>
-  <text x="72" y="220" fill="#ebeae2" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600">Things I build.</text>
-  <text x="72" y="262" fill="#9a9b94" font-family="Arial, Helvetica, sans-serif" font-size="18">Lead Software Engineer · Industrial IoT @ AEInnova</text>
+  <text x="64" y="168" fill="#ebeae2" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="108" font-weight="800" letter-spacing="-5">NIL</text>
+  <text x="64" y="222" fill="#ebeae2" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="600">Things I build.</text>
+  <text x="64" y="262" fill="#9a9b94" font-family="Arial, Helvetica, sans-serif" font-size="18">Lead Software Engineer · Industrial IoT platforms @ AEInnova</text>
+  <text x="64" y="292" fill="#7b91ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1">systems to production · products you can open · objects you can touch</text>
 
-  <rect x="72" y="300" width="220" height="3" fill="url(#beam)">
-    <animate attributeName="width" values="120;320;120" dur="5s" repeatCount="indefinite"/>
+  <rect x="64" y="318" width="260" height="3" fill="url(#beam)">
+    <animate attributeName="width" values="140;340;140" dur="5.5s" repeatCount="indefinite"/>
   </rect>
 
-  <g opacity="0.9">
-    <circle cx="980" cy="180" r="64" fill="none" stroke="#7b91ff" stroke-opacity="0.35" stroke-width="1">
-      <animate attributeName="r" values="54;70;54" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="stroke-opacity" values="0.2;0.5;0.2" dur="6s" repeatCount="indefinite"/>
+  <g transform="translate(940 190)">
+    <circle r="88" fill="url(#orb)" opacity="0.55">
+      <animate attributeName="opacity" values="0.35;0.65;0.35" dur="5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="980" cy="180" r="28" fill="#7b91ff" fill-opacity="0.15"/>
-    <circle cx="980" cy="180" r="8" fill="#e07a45">
-      <animate attributeName="fill-opacity" values="0.7;1;0.7" dur="2.4s" repeatCount="indefinite"/>
+    <circle r="68" fill="none" stroke="#7b91ff" stroke-opacity="0.4" stroke-width="1" stroke-dasharray="6 8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/>
     </circle>
-    <text x="980" y="250" text-anchor="middle" fill="#9a9b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">WEB · IOT · 3D</text>
+    <circle r="42" fill="none" stroke="#e07a45" stroke-opacity="0.45" stroke-width="1">
+      <animate attributeName="r" values="36;48;36" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="9" fill="#e07a45">
+      <animate attributeName="fill-opacity" values="0.65;1;0.65" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text y="120" text-anchor="middle" fill="#9a9b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3">WEB · IOT · 3D</text>
   </g>
+
+  <text x="64" y="380" fill="#9a9b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">15+ BUILDS · PRIVATE BY DEFAULT · PUBLIC WHERE IT HELPS</text>
+  <text x="860" y="380" fill="#9a9b94" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">nil.nailus.online</text>
 </svg>
