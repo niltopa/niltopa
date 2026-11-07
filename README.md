@@ -596,6 +596,8 @@ Team and delivery tools. Git / GitHub Desktop stay under Cloud, containers and D
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Microsoft_Planner-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Planner" />
+  <img src="https://img.shields.io/badge/MS_Project-217346?style=flat-square&logo=microsoftproject&logoColor=white" alt="MS Project" />
   <img src="https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" />
   <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat-square&logo=zoom&logoColor=white" alt="Zoom" />
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
