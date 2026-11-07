@@ -146,10 +146,10 @@ Most day-to-day code lives in **private repos** (product + company work). What y
   <tr>
     <td width="50%" valign="top">
       <a href="https://ddd.uab.cat/record/282963">
-        <img src="https://nil.nailus.online/builds/esp32cam-tfg.png" alt="ESP32CAM TFG dashboards" width="100%" />
+        <img src="https://nil.nailus.online/builds/esp32cam-tfg.png" alt="ESP32CAM thesis dashboards" width="100%" />
       </a>
       <br /><br />
-      <b><a href="https://ddd.uab.cat/record/282963">ESP32CAM: IR + object detection</a></b> · dual TFG · 2023<br />
+      <b><a href="https://ddd.uab.cat/record/282963">ESP32CAM: IR + object detection</a></b> · dual BSc thesis · 2023<br />
       Object tracking with servo, IR temperature, MQTT, Node-RED, InfluxDB, Grafana. Grades: 9.1 (CS) / 9.0 (Telecom).<br />
       <a href="https://ddd.uab.cat/record/272818">CS thesis</a> · <a href="https://ddd.uab.cat/record/282963">Telecom thesis</a> · <a href="https://nil.nailus.online/en/build/esp32cam-tfg">Case</a>
     </td>
@@ -231,7 +231,7 @@ Most day-to-day code lives in **private repos** (product + company work). What y
 | --- | --- | --- |
 | **2023 → now** | [AEInnova](https://aeinnova.com/) · Terrassa | **Lead Software Engineer**: cloud IoT platforms, edge (MQTT / LoRaWAN / NB-IoT), mentoring ×5, product owner to customer deploy |
 | **2022 → 2023** | NTT DATA · Barcelona | **Full-Stack Developer**: public-sector / healthcare microservices (Java, Spring Boot, React, Postgres) |
-| **2017 → 2023** | [UAB](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1216708258897.html?param1=1345654053765) · Bellaterra | **Double degree (5y / 333 ECTS)**: Ingeniería Informática (mención Ingeniería de Computadores) + Ingeniería Electrónica de Telecomunicación; dual TFG on ESP32CAM; internship at NTT DATA (9.9) |
+| **2017 → 2023** | [UAB](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1216708258897.html?param1=1345654053765) · Bellaterra | **Double degree (5y / 333 ECTS)**: Computer Engineering (Computer Engineering specialization) + Telecommunications Electronics Engineering; dual bachelor's theses on ESP32CAM; internship at NTT DATA (9.9) |
 
 Also on the floor with AEInnova at Smart City Expo, MWC, IOTSWC, Advanced Factories, ISE (2023–2026), and EIC Summer School on Cybersecurity (Athens, 2025).
 
@@ -240,8 +240,8 @@ Also on the floor with AEInnova at Smart City Expo, MWC, IOTSWC, Advanced Factor
 ## Recognition
 
 - **2017** · Honourable mention, [Premi Argó](https://www.uab.cat/) (Technology) for **NATS** smart clothing
-- **2017** · 2nd prize, Jornades Científiques i Tecnològiques de Batxillerat (L'Hospitalet)
-- **2017** · Accésit, UPF Prize for Research Projects in Engineering and Applied Mathematics
+- **2017** · 2nd prize, Baccalaureate Science and Technology Days (L'Hospitalet)
+- **2017** · Accésit (runner-up), UPF Prize for Research Projects in Engineering and Applied Mathematics
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
@@ -516,24 +516,24 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
 
 ### UAB double degree foundations
 
-[UAB Escuela de Ingeniería](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1216708258897.html?param1=1345654053765) · Bellaterra · **5 years / 333 ECTS** · two official degrees:
+[UAB School of Engineering](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1216708258897.html?param1=1345654053765) · Bellaterra · **5 years / 333 ECTS** · two official degrees:
 
-1. **Ingeniería Informática**, mención **Ingeniería de Computadores**
-2. **Ingeniería Electrónica de Telecomunicación**
+1. **Computer Engineering**, specialization **Computer Engineering** (Ingeniería de Computadores)
+2. **Telecommunications Electronics Engineering**
 
-[Plan de estudios](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) · internship at NTT DATA **9.9/10** · dual TFG (ESP32CAM): CS **9.1** / Telecom **9.0**
+[Curriculum](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) · internship at NTT DATA **9.9/10** · dual bachelor's theses / TFG (ESP32CAM): CS **9.1** / Telecom **9.0**
 
 **By year (core path)**
 
 | Year | Focus |
 | --- | --- |
-| **1** | Álgebra, Cálculo, Matemática discreta · Programación 1–2 · Teoría de circuitos y electrónica · Software de sistemas · Señales y sistemas · Teoría de la computación · Organización de empresas |
-| **2** | Sistemas digitales y HDL (anual) · Campos y ondas EM (anual) · Estructura de computadores · SO · Programación 3 · Bases de datos · Probabilidad y procesos estocásticos · Información y seguridad · Redes I / II · Ingeniería del software |
-| **3** | Radiación y ondas guiadas (anual) · Componentes y circuitos · Electrónica analógica · Señales y sistemas discretos · Computación en la nube · Web / Internet · Arquitectura de computadores · IA · Señales y sistemas de comunicación · Ética, proyectos y legislación |
-| **4** | Control de sistemas · Electrónica de Tx/Rx · Datos masivos · Diseño de sistemas electrónicos I–II · Circuitos y tecnologías electrónicas · Microelectrónica I · Programación paralela · Sistemas embebidos · RF y microondas · Gestión y administración de redes |
-| **5** | Instrumentación I–II · Circuitos de potencia · Microelectrónica II · **2× TFG** · optativas (12–18 ECTS) |
+| **1** | Algebra, Calculus, Discrete mathematics · Programming 1–2 · Circuit theory and electronics · Systems software · Signals and systems · Theory of computation · Business organization |
+| **2** | Digital systems and HDL (year-long) · Electromagnetic fields and waves (year-long) · Computer organization · Operating systems · Programming 3 · Databases · Probability and stochastic processes · Information and security · Networks I / II · Software engineering |
+| **3** | Radiation and guided waves (year-long) · Electronic components and circuits · Analog electronics · Discrete-time signals and systems · Cloud computing · Web / Internet technologies · Computer architecture · AI · Communication signals and systems · Ethics, project management and legislation |
+| **4** | Control systems · Transmitter / receiver electronics · Big-data applications · Electronic systems design I–II · Electronic circuits and technologies · Microelectronics I · Parallel programming · Embedded systems · RF and microwaves · Network management and administration |
+| **5** | Instrumentation I–II · Power electronics · Microelectronics II · **2× bachelor's theses (TFG)** · electives (12–18 ECTS) |
 
-**Mención Ingeniería de Computadores** (asignaturas marcadas en el plan): datos masivos, diseño de sistemas electrónicos, microelectrónica, programación paralela, sistemas embebidos, gestión de redes, más una de IoT / dispositivos inteligentes / seguridad de servidores y nube.
+**Computer Engineering specialization** (courses marked in the official plan): big-data applications, electronic systems design, microelectronics, parallel programming, embedded systems, network administration, plus one of IoT / smart devices / server and cloud security.
 
 **Labs and tooling from the degree**
 
