@@ -92,7 +92,7 @@ Most day-to-day code lives in **private repos** (product + company work). What y
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## More products & experiments
+## More products and experiments
 
 <table>
   <tr>
@@ -140,7 +140,7 @@ Most day-to-day code lives in **private repos** (product + company work). What y
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## Hardware & embedded
+## Hardware and embedded
 
 <table>
   <tr>
@@ -187,7 +187,7 @@ Most day-to-day code lives in **private repos** (product + company work). What y
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 3D & physical
+## 3D and physical
 
 <table>
   <tr>
@@ -253,7 +253,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 
 `Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Computer architecture` · `Operating systems` · `Network engineering` · `TCP/IP` · `RF / microwaves` · `Signals & systems / DSP` · `Electromagnetics` · `Control systems` · `Instrumentation` · `Hardware architecture` · `Circuit design` · `Analog / power electronics` · `HDL / digital design` · `Information security` · `Privacy / anonymity tooling` · `Parallel computing` · `Big data apps` · `Computer vision` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile` · `AI tooling`
 
-### Languages & runtimes
+### Languages and runtimes
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -272,7 +272,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-### Web & product
+### Web and product
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -288,7 +288,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
   <img src="https://img.shields.io/badge/Chrome_extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome extensions" />
 </p>
 
-### Backend & data
+### Backend and data
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
@@ -309,7 +309,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
   <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square" alt="NextAuth" />
 </p>
 
-### Cloud, containers & DevOps
+### Cloud, containers and DevOps
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -330,7 +330,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
   <img src="https://img.shields.io/badge/Chocolatey-181922?style=flat-square" alt="Chocolatey" />
 </p>
 
-### Hosting, DNS & PaaS
+### Hosting, DNS and PaaS
 
 Shared hosting from early projects through modern app platforms.
 
@@ -353,7 +353,8 @@ Shared hosting from early projects through modern app platforms.
   <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=black" alt="GoDaddy" />
   <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Let's Encrypt" />
 </p>
-### Industrial IoT & connectivity
+
+### Industrial IoT and connectivity
 
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
@@ -368,7 +369,7 @@ Shared hosting from early projects through modern app platforms.
   <img src="https://img.shields.io/badge/qFlipper-e07a45?style=flat-square" alt="qFlipper / Flipper Zero" />
 </p>
 
-### Embedded, mobile & hardware
+### Embedded, mobile and hardware
 
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
@@ -387,7 +388,7 @@ Shared hosting from early projects through modern app platforms.
   <img src="https://img.shields.io/badge/3uTools-181922?style=flat-square" alt="3uTools" />
 </p>
 
-### Editors & workstation
+### Editors and workstation
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor" />
@@ -402,7 +403,7 @@ Shared hosting from early projects through modern app platforms.
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome" />
 </p>
 
-### Networks, remote & security tooling
+### Networks, remote and security
 
 <p>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
@@ -436,7 +437,7 @@ Shared hosting from early projects through modern app platforms.
   <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" />
 </p>
 
-### Web3 & experiments
+### Web3 and experiments
 
 From Descentralid, Crypto Tracker, NailusDAO / Clarinet and bCAT DAO landing.
 
@@ -466,7 +467,8 @@ From Descentralid, Crypto Tracker, NailusDAO / Clarinet and bCAT DAO landing.
   <img src="https://img.shields.io/badge/DApp_Kit-15AB62?style=flat-square" alt="VeChain DApp Kit" />
   <img src="https://img.shields.io/badge/Stacks_Connect-5546FF?style=flat-square" alt="Stacks Connect" />
 </p>
-### 3D, CAD, print & XR
+
+### 3D, CAD, print and XR
 
 <p>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
@@ -484,7 +486,7 @@ From Descentralid, Crypto Tracker, NailusDAO / Clarinet and bCAT DAO landing.
   <img src="https://img.shields.io/badge/SteamVR-171a21?style=flat-square&logo=steam&logoColor=white" alt="SteamVR" />
 </p>
 
-### Media & capture
+### Media and capture
 
 <p>
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square" alt="DaVinci Resolve" />
@@ -493,7 +495,8 @@ From Descentralid, Crypto Tracker, NailusDAO / Clarinet and bCAT DAO landing.
   <img src="https://img.shields.io/badge/OBS_/_ShadowPlay-181922?style=flat-square" alt="NVIDIA ShadowPlay" />
 </p>
 
-### Early years (scripts, desktop & LAMP)
+### Early years: scripts, desktop and LAMP
+
 Started young with `.bat` scripts and similar Windows automation, desktop apps in Visual Studio, then the classic LAMP stack: local servers, PHP pages and databases in the browser. Same era as [niltpH](https://nil.nailus.online/en/build/niltph).
 
 <p>
@@ -511,7 +514,8 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
   <img src="https://img.shields.io/badge/Fiddler-181922?style=flat-square" alt="Fiddler" />
 </p>
 
-### Foundations from the UAB double degree
+### UAB double degree foundations
+
 [Plan de estudios](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) · Informática (mención Computadores) + Electrónica de Telecomunicación.
 
 `Álgebra / Cálculo / Matemática discreta` · `Probabilidad y procesos estocásticos` · `Programación 1–3` · `Teoría de la computación` · `Estructura y arquitectura de computadores` · `Sistemas operativos` · `Bases de datos` · `Ingeniería del software` · `Redes I / II` · `Gestión y administración de redes` · `Información y seguridad` · `Computación en la nube` · `Tecnologías de desarrollo para Internet y Web` · `Inteligencia artificial` · `Datos masivos` · `Programación paralela` · `Programación de sistemas embebidos` · `Sistemas digitales / VHDL` · `Diseño microelectrónico` · `Teoría de circuitos` · `Electrónica analógica` · `Componentes y circuitos` · `Señales y sistemas` · `Señales y sistemas de comunicación` · `Campos y ondas / radiación` · `RF y microondas` · `Electrónica de transmisores y receptores` · `Control de sistemas` · `Instrumentación` · `Circuitos de potencia` · `Ética / gestión de proyectos / legislación`
@@ -542,7 +546,7 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
   <img src="https://img.shields.io/badge/LanguageTool-181922?style=flat-square" alt="LanguageTool" />
 </p>
 
-### Business systems, IT ops & security platforms
+### Business systems, IT and security platforms
 
 <p>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
