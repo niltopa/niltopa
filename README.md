@@ -348,6 +348,7 @@ Shared hosting from early projects through modern app platforms.
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
   <img src="https://img.shields.io/badge/000webhost-181922?style=flat-square" alt="000webhost" />
   <img src="https://img.shields.io/badge/ZAP--Hosting-e07a45?style=flat-square" alt="ZAP-Hosting" />
+  <img src="https://img.shields.io/badge/DonDominio-1F3FD0?style=flat-square" alt="DonDominio" />
   <img src="https://img.shields.io/badge/Namecheap-DE3723?style=flat-square" alt="Namecheap" />
   <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=black" alt="GoDaddy" />
   <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Let's Encrypt" />
