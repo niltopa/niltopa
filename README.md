@@ -298,6 +298,8 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
   <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 17" />
   <img src="https://img.shields.io/badge/pgAdmin_4-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin 4" />
   <img src="https://img.shields.io/badge/NoSQL-181922?style=flat-square" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MariaDB-C32136?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
@@ -325,10 +327,37 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
   <img src="https://img.shields.io/badge/CI%2FCD-181922?style=flat-square" alt="CI/CD" />
   <img src="https://img.shields.io/badge/DevOps-7b91ff?style=flat-square" alt="DevOps" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Chocolatey-181922?style=flat-square" alt="Chocolatey" />
 </p>
 
+### Hosting, DNS & PaaS
+
+Shared hosting from early projects through modern app platforms.
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Fly.io-24175B?style=flat-square&logo=flydotio&logoColor=white" alt="Fly.io" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Neon-00E699?style=flat-square" alt="Neon" />
+  <img src="https://img.shields.io/badge/PlanetScale-000000?style=flat-square&logo=planetscale&logoColor=white" alt="PlanetScale" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white" alt="OVHcloud" />
+  <img src="https://img.shields.io/badge/IONOS-003D8F?style=flat-square" alt="IONOS" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/000webhost-181922?style=flat-square" alt="000webhost" />
+  <img src="https://img.shields.io/badge/ZAP--Hosting-e07a45?style=flat-square" alt="ZAP-Hosting" />
+  <img src="https://img.shields.io/badge/Namecheap-DE3723?style=flat-square" alt="Namecheap" />
+  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=black" alt="GoDaddy" />
+  <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Let's Encrypt" />
+  <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square" alt="ngrok" />
+</p>
 ### Industrial IoT & connectivity
 
 <p>
