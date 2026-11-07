@@ -251,7 +251,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 
 **Domain**
 
-`Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Computer architecture` · `Operating systems` · `Network engineering` · `TCP/IP` · `RF / microwaves` · `Signals & systems / DSP` · `Electromagnetics` · `Control systems` · `Instrumentation` · `Hardware architecture` · `Circuit design` · `Analog / power electronics` · `HDL / digital design` · `Information security` · `Parallel computing` · `Big data apps` · `Computer vision` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile` · `AI tooling`
+`Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Computer architecture` · `Operating systems` · `Network engineering` · `TCP/IP` · `RF / microwaves` · `Signals & systems / DSP` · `Electromagnetics` · `Control systems` · `Instrumentation` · `Hardware architecture` · `Circuit design` · `Analog / power electronics` · `HDL / digital design` · `Information security` · `Privacy / anonymity tooling` · `Parallel computing` · `Big data apps` · `Computer vision` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile` · `AI tooling`
 
 **Languages & runtimes**
 
@@ -316,6 +316,8 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="kubectl" />
   <img src="https://img.shields.io/badge/WSL2-0078D4?style=flat-square&logo=linux&logoColor=white" alt="WSL2" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Fedora_Media_Writer-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora Media Writer" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_CLI-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub CLI" />
@@ -377,16 +379,31 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 
 **Networks, remote & security tooling**
 
+Privacy / hardening stack and day-to-day remote access: Fedora, Whonix, Tor, Tails, KeePass and the usual companions.
+
 <p>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Whonix-181922?style=flat-square" alt="Whonix" />
+  <img src="https://img.shields.io/badge/Tails-56347C?style=flat-square" alt="Tails" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white" alt="Tor" />
+  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat-square&logo=torproject&logoColor=white" alt="Tor Browser" />
+  <img src="https://img.shields.io/badge/KeePass-6CAC4D?style=flat-square" alt="KeePass" />
+  <img src="https://img.shields.io/badge/KeePassXC-6CAC4D?style=flat-square" alt="KeePassXC" />
+  <img src="https://img.shields.io/badge/VeraCrypt-181922?style=flat-square" alt="VeraCrypt" />
+  <img src="https://img.shields.io/badge/GnuPG-181922?style=flat-square&logo=gnupg&logoColor=white" alt="GnuPG" />
+  <img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Proton Mail" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
   <img src="https://img.shields.io/badge/Nmap-181922?style=flat-square" alt="Nmap" />
   <img src="https://img.shields.io/badge/Zenmap-181922?style=flat-square" alt="Zenmap" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
   <img src="https://img.shields.io/badge/Windscribe-181922?style=flat-square" alt="Windscribe" />
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
   <img src="https://img.shields.io/badge/RustDesk-181922?style=flat-square" alt="RustDesk" />
   <img src="https://img.shields.io/badge/AnyDesk-181922?style=flat-square" alt="AnyDesk" />
   <img src="https://img.shields.io/badge/ESET-181922?style=flat-square" alt="ESET" />
 </p>
-
 **Local AI**
 
 <p>
