@@ -368,6 +368,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/Visual_Studio_Build_Tools-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio Build Tools" />
   <img src="https://img.shields.io/badge/MobaXterm-181922?style=flat-square" alt="MobaXterm" />
   <img src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black" alt="Notepad++" />
@@ -378,8 +379,6 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 **Networks, remote & security tooling**
-
-Privacy / hardening stack and day-to-day remote access: Fedora, Whonix, Tor, Tails, KeePass and the usual companions.
 
 <p>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
@@ -451,9 +450,9 @@ Privacy / hardening stack and day-to-day remote access: Fedora, Whonix, Tor, Tai
   <img src="https://img.shields.io/badge/OBS_/_ShadowPlay-181922?style=flat-square" alt="NVIDIA ShadowPlay" />
 </p>
 
-**Early web (the LAMP years)**
+**Early years (scripts, desktop & LAMP)**
 
-Started young with the classic stack: local servers, PHP pages and databases in the browser. Same era as [niltpH](https://nil.nailus.online/en/build/niltph).
+Started young with `.bat` scripts and similar Windows automation, desktop apps in Visual Studio, then the classic LAMP stack: local servers, PHP pages and databases in the browser. Same era as [niltpH](https://nil.nailus.online/en/build/niltph).
 
 <p>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square" alt="XAMPP" />
@@ -464,6 +463,9 @@ Started young with the classic stack: local servers, PHP pages and databases in 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/.bat_/_cmd-181922?style=flat-square&logo=windows&logoColor=white" alt=".bat / cmd" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/WinForms_/_desktop-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="WinForms / desktop" />
   <img src="https://img.shields.io/badge/Fiddler-181922?style=flat-square" alt="Fiddler" />
 </p>
 
@@ -497,6 +499,19 @@ Started young with the classic stack: local servers, PHP pages and databases in 
   <img src="https://img.shields.io/badge/InfoSec-181922?style=flat-square" alt="Information Security" />
   <img src="https://img.shields.io/badge/App_Inventor-0F9D58?style=flat-square" alt="App Inventor" />
   <img src="https://img.shields.io/badge/LanguageTool-181922?style=flat-square" alt="LanguageTool" />
+</p>
+**Business systems, IT ops & security platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot" />
+  <img src="https://img.shields.io/badge/Sage_50-00D639?style=flat-square" alt="Sage 50" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/GLPI-181922?style=flat-square" alt="GLPI" />
+  <img src="https://img.shields.io/badge/Wazuh-01A4A6?style=flat-square" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Passbolt-181922?style=flat-square" alt="Passbolt" />
+  <img src="https://img.shields.io/badge/RustDesk-181922?style=flat-square" alt="RustDesk" />
+  <img src="https://img.shields.io/badge/SonicWall-FF6A00?style=flat-square" alt="SonicWall" />
 </p>
 **Collaboration**
 
