@@ -518,7 +518,7 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
 
 [UAB School of Engineering](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1216708258897.html?param1=1345654053765) · Bellaterra · **5 years / 333 ECTS** · two official degrees:
 
-1. **Computer Engineering**, specialization **Computer Engineering** (Ingeniería de Computadores)
+1. **Computer Engineering** (Ingeniería Informática), specialization **Computer Systems / Hardware** (Ingeniería de Computadores)
 2. **Telecommunications Electronics Engineering**
 
 [Curriculum](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) · internship at NTT DATA **9.9/10** · dual bachelor's theses / TFG (ESP32CAM): CS **9.1** / Telecom **9.0**
