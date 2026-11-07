@@ -231,7 +231,7 @@ Most day-to-day code lives in **private repos** (product + company work). What y
 | --- | --- | --- |
 | **2023 → now** | [AEInnova](https://aeinnova.com/) · Terrassa | **Lead Software Engineer**: cloud IoT platforms, edge (MQTT / LoRaWAN / NB-IoT), mentoring ×5, product owner to customer deploy |
 | **2022 → 2023** | NTT DATA · Barcelona | **Full-Stack Developer**: public-sector / healthcare microservices (Java, Spring Boot, React, Postgres) |
-| **2017 → 2023** | UAB | **Double degree**: Computer Engineering + Telecommunications Electronics; dual TFG on ESP32CAM; internship at NTT DATA |
+| **2017 → 2023** | [UAB](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1216708258897.html?param1=1345654053765) · Bellaterra | **Double degree (5y / 333 ECTS)**: Ingeniería Informática (mención Ingeniería de Computadores) + Ingeniería Electrónica de Telecomunicación; dual TFG on ESP32CAM; internship at NTT DATA (9.9) |
 
 Also on the floor with AEInnova at Smart City Expo, MWC, IOTSWC, Advanced Factories, ISE (2023–2026), and EIC Summer School on Cybersecurity (Athens, 2025).
 
@@ -247,11 +247,11 @@ Also on the floor with AEInnova at Smart City Expo, MWC, IOTSWC, Advanced Factor
 
 ## Stack I actually use
 
-From the CV, day job, portfolio builds, side experiments and the tools installed on this workstation. Grouped so the signal stays clear.
+From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree plan](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) and the tools on this workstation. Grouped so the signal stays clear.
 
 **Domain**
 
-`Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Network engineering` · `TCP/IP` · `Hardware architecture` · `Circuit design` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile` · `AI tooling`
+`Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Computer architecture` · `Operating systems` · `Network engineering` · `TCP/IP` · `RF / microwaves` · `Signals & systems / DSP` · `Electromagnetics` · `Control systems` · `Instrumentation` · `Hardware architecture` · `Circuit design` · `Analog / power electronics` · `HDL / digital design` · `Information security` · `Parallel computing` · `Big data apps` · `Computer vision` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile` · `AI tooling`
 
 **Languages & runtimes**
 
@@ -299,6 +299,11 @@ From the CV, day job, portfolio builds, side experiments and the tools installed
   <img src="https://img.shields.io/badge/pgAdmin_4-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgAdmin 4" />
   <img src="https://img.shields.io/badge/NoSQL-181922?style=flat-square" alt="NoSQL" />
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-C32136?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square" alt="phpMyAdmin" />
   <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square" alt="NextAuth" />
 </p>
 
@@ -429,16 +434,53 @@ From the CV, day job, portfolio builds, side experiments and the tools installed
   <img src="https://img.shields.io/badge/OBS_/_ShadowPlay-181922?style=flat-square" alt="NVIDIA ShadowPlay" />
 </p>
 
-**Engineering (degree & lab)**
+**Early web (the LAMP years)**
+
+Started young with the classic stack: local servers, PHP pages and databases in the browser. Same era as [niltpH](https://nil.nailus.online/en/build/niltph).
+
+<p>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Fiddler-181922?style=flat-square" alt="Fiddler" />
+</p>
+
+**Foundations from the UAB double degree**
+
+[Plan de estudios](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) · Informática (mención Computadores) + Electrónica de Telecomunicación.
+
+`Álgebra / Cálculo / Matemática discreta` · `Probabilidad y procesos estocásticos` · `Programación 1–3` · `Teoría de la computación` · `Estructura y arquitectura de computadores` · `Sistemas operativos` · `Bases de datos` · `Ingeniería del software` · `Redes I / II` · `Gestión y administración de redes` · `Información y seguridad` · `Computación en la nube` · `Tecnologías de desarrollo para Internet y Web` · `Inteligencia artificial` · `Datos masivos` · `Programación paralela` · `Programación de sistemas embebidos` · `Sistemas digitales / VHDL` · `Diseño microelectrónico` · `Teoría de circuitos` · `Electrónica analógica` · `Componentes y circuitos` · `Señales y sistemas` · `Señales y sistemas de comunicación` · `Campos y ondas / radiación` · `RF y microondas` · `Electrónica de transmisores y receptores` · `Control de sistemas` · `Instrumentación` · `Circuitos de potencia` · `Ética / gestión de proyectos / legislación`
 
 <p>
   <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Simulink-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="Simulink" />
   <img src="https://img.shields.io/badge/VHDL-181922?style=flat-square" alt="VHDL" />
+  <img src="https://img.shields.io/badge/HDL-181922?style=flat-square" alt="HDL" />
+  <img src="https://img.shields.io/badge/DSP-1F3FD0?style=flat-square" alt="DSP" />
+  <img src="https://img.shields.io/badge/RF_/_Microwaves-e07a45?style=flat-square" alt="RF / Microwaves" />
+  <img src="https://img.shields.io/badge/Electromagnetics-181922?style=flat-square" alt="Electromagnetics" />
+  <img src="https://img.shields.io/badge/Control_Systems-181922?style=flat-square" alt="Control Systems" />
+  <img src="https://img.shields.io/badge/Instrumentation-181922?style=flat-square" alt="Instrumentation" />
+  <img src="https://img.shields.io/badge/Computer_Architecture-181922?style=flat-square" alt="Computer Architecture" />
+  <img src="https://img.shields.io/badge/Operating_Systems-181922?style=flat-square" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/Computer_Networks-005CAF?style=flat-square" alt="Computer Networks" />
+  <img src="https://img.shields.io/badge/Software_Engineering-181922?style=flat-square" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Databases-4169E1?style=flat-square" alt="Databases" />
+  <img src="https://img.shields.io/badge/Parallel_Programming-181922?style=flat-square" alt="Parallel Programming" />
+  <img src="https://img.shields.io/badge/Embedded_Programming-E7352C?style=flat-square" alt="Embedded Programming" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-232F3E?style=flat-square" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/Big_Data-181922?style=flat-square" alt="Big Data" />
+  <img src="https://img.shields.io/badge/AI-7b91ff?style=flat-square" alt="AI" />
+  <img src="https://img.shields.io/badge/Computer_Vision-181922?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/InfoSec-181922?style=flat-square" alt="Information Security" />
   <img src="https://img.shields.io/badge/App_Inventor-0F9D58?style=flat-square" alt="App Inventor" />
   <img src="https://img.shields.io/badge/LanguageTool-181922?style=flat-square" alt="LanguageTool" />
 </p>
-
 **Collaboration**
 
 <p>
