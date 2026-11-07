@@ -247,22 +247,71 @@ Also on the floor with AEInnova at Smart City Expo, MWC, IOTSWC, Advanced Factor
 
 ## Stack I actually use
 
-**Platforms & product**
+From the CV, day job, portfolio builds and side experiments. Grouped so the signal stays clear.
+
+**Domain**
+
+`Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Network engineering` · `TCP/IP` · `Hardware architecture` · `Circuit design` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile`
+
+**Languages & runtimes**
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/CI%2FCD-181922?style=flat-square" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-**Industrial IoT & edge**
+**Web & product**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Monaco_Editor-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Monaco Editor" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/REST_APIs-181922?style=flat-square" alt="REST APIs" />
+</p>
+
+**Backend & data**
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/NoSQL-181922?style=flat-square" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square" alt="NextAuth" />
+</p>
+
+**Cloud, DevOps & ops**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CI%2FCD-181922?style=flat-square" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/DevOps-7b91ff?style=flat-square" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+**Industrial IoT & connectivity**
 
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
@@ -272,22 +321,60 @@ Also on the floor with AEInnova at Smart City Expo, MWC, IOTSWC, Advanced Factor
   <img src="https://img.shields.io/badge/OPC_UA-181922?style=flat-square" alt="OPC UA" />
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" alt="Node-RED" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth" />
 </p>
 
-**Also in the toolkit**
+**Embedded & hardware**
 
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-CAM" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/LilyPad-00979D?style=flat-square&logo=arduino&logoColor=white" alt="LilyPad" />
+  <img src="https://img.shields.io/badge/FRDM--KL25Z-181922?style=flat-square" alt="FRDM-KL25Z" />
+  <img src="https://img.shields.io/badge/CodeWarrior-181922?style=flat-square" alt="CodeWarrior" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+  <img src="https://img.shields.io/badge/COCO--SSD-181922?style=flat-square" alt="COCO-SSD" />
+  <img src="https://img.shields.io/badge/Fritzing-181922?style=flat-square" alt="Fritzing" />
+  <img src="https://img.shields.io/badge/HC--05-0082FC?style=flat-square" alt="HC-05" />
+</p>
+
+**Web3 & experiments**
+
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/VeChain-15AB62?style=flat-square" alt="VeChain" />
+  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white" alt="MetaMask" />
+  <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" alt="WalletConnect" />
+  <img src="https://img.shields.io/badge/wagmi-1C1C1C?style=flat-square" alt="wagmi" />
+  <img src="https://img.shields.io/badge/1inch-181922?style=flat-square" alt="1inch" />
+  <img src="https://img.shields.io/badge/Moralis-0B0B0B?style=flat-square" alt="Moralis" />
+</p>
+
+**3D, CAD & physical**
+
+<p>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/OpenSCAD-F9D72C?style=flat-square&logoColor=black" alt="OpenSCAD" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/AutoCAD-E51E25?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/CAD-181922?style=flat-square" alt="CAD" />
+  <img src="https://img.shields.io/badge/FDM_3D_print-e07a45?style=flat-square" alt="FDM 3D print" />
 </p>
+
+**Engineering (degree & lab)**
+
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Simulink-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/VHDL-181922?style=flat-square" alt="VHDL" />
+  <img src="https://img.shields.io/badge/App_Inventor-0F9D58?style=flat-square" alt="App Inventor" />
+  <img src="https://img.shields.io/badge/LanguageTool-181922?style=flat-square" alt="LanguageTool" />
+</p>
+
+**How I work**
+
+`Technical leadership` · `Mentoring` · `Small teams` · `Product owner` · `Requirements analysis` · `Architecture standards` · `Code review` · `Customer deployments` · `Cross-functional R&D` · `Spanish / Catalan native` · `English C1`
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
