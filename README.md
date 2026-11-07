@@ -250,9 +250,11 @@ Also on the floor with AEInnova at Smart City Expo, MWC, IOTSWC, Advanced Factor
 From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree plan](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) and the tools on this workstation. Grouped so the signal stays clear.
 
 ### Domain
+
 `Industrial IoT` · `IoT` · `Software architecture` · `Cloud architecture` · `Platform engineering` · `Edge-to-cloud` · `Industrial protocols` · `Embedded systems` · `Microcontrollers` · `Computer architecture` · `Operating systems` · `Network engineering` · `TCP/IP` · `RF / microwaves` · `Signals & systems / DSP` · `Electromagnetics` · `Control systems` · `Instrumentation` · `Hardware architecture` · `Circuit design` · `Analog / power electronics` · `HDL / digital design` · `Information security` · `Privacy / anonymity tooling` · `Parallel computing` · `Big data apps` · `Computer vision` · `Blockchain` · `DApps` · `DevOps` · `Product ownership` · `Agile` · `AI tooling`
 
 ### Languages & runtimes
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -271,6 +273,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Web & product
+
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -286,6 +289,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Backend & data
+
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -304,6 +308,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Cloud, containers & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Desktop" />
@@ -325,6 +330,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Industrial IoT & connectivity
+
 <p>
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
   <img src="https://img.shields.io/badge/MQTT_Explorer-7b91ff?style=flat-square" alt="MQTT Explorer" />
@@ -339,6 +345,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Embedded, mobile & hardware
+
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32-CAM" />
@@ -357,6 +364,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Editors & workstation
+
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" alt="Cursor" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -371,6 +379,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Networks, remote & security tooling
+
 <p>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/Whonix-181922?style=flat-square" alt="Whonix" />
@@ -396,6 +405,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Local AI
+
 <p>
   <img src="https://img.shields.io/badge/Ollama-181922?style=flat-square" alt="Ollama" />
   <img src="https://img.shields.io/badge/ComfyUI-7b91ff?style=flat-square" alt="ComfyUI / Comfy Desktop" />
@@ -403,6 +413,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Web3 & experiments
+
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/VeChain-15AB62?style=flat-square" alt="VeChain" />
@@ -414,6 +425,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### 3D, CAD, print & XR
+
 <p>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/OpenSCAD-F9D72C?style=flat-square&logoColor=black" alt="OpenSCAD" />
@@ -431,6 +443,7 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
 </p>
 
 ### Media & capture
+
 <p>
   <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square" alt="DaVinci Resolve" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=flat-square" alt="CapCut" />
@@ -488,6 +501,7 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
 </p>
 
 ### Business systems, IT ops & security platforms
+
 <p>
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot" />
@@ -501,6 +515,7 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
 </p>
 
 ### Collaboration
+
 <p>
   <img src="https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" />
   <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat-square&logo=zoom&logoColor=white" alt="Zoom" />
@@ -508,6 +523,7 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
 </p>
 
 ### How I work
+
 `Technical leadership` · `Mentoring` · `Small teams` · `Product owner` · `Requirements analysis` · `Architecture standards` · `Code review` · `Customer deployments` · `Cross-functional R&D` · `Spanish / Catalan native` · `English C1`
 
 <img src="./assets/divider.svg" alt="" width="100%" />
