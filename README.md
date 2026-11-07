@@ -438,16 +438,34 @@ Shared hosting from early projects through modern app platforms.
 
 ### Web3 & experiments
 
+From Descentralid, Crypto Tracker, NailusDAO / Clarinet and bCAT DAO landing.
+
 <p>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/VeChain-15AB62?style=flat-square" alt="VeChain" />
+  <img src="https://img.shields.io/badge/Stacks-5546FF?style=flat-square" alt="Stacks" />
+  <img src="https://img.shields.io/badge/Clarity-5546FF?style=flat-square" alt="Clarity" />
+  <img src="https://img.shields.io/badge/Clarinet-5546FF?style=flat-square" alt="Clarinet" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white" alt="MetaMask" />
   <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" alt="WalletConnect" />
+  <img src="https://img.shields.io/badge/Web3Modal-3B99FC?style=flat-square" alt="Web3Modal" />
   <img src="https://img.shields.io/badge/wagmi-1C1C1C?style=flat-square" alt="wagmi" />
-  <img src="https://img.shields.io/badge/1inch-181922?style=flat-square" alt="1inch" />
+  <img src="https://img.shields.io/badge/viem-181922?style=flat-square" alt="viem" />
+  <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=flat-square&logo=ethers&logoColor=white" alt="ethers.js" />
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=flat-square" alt="web3.js" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Truffle-181922?style=flat-square" alt="Truffle" />
+  <img src="https://img.shields.io/badge/Foundry-181922?style=flat-square" alt="Foundry / Forge" />
+  <img src="https://img.shields.io/badge/Remix-181922?style=flat-square" alt="Remix" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
   <img src="https://img.shields.io/badge/Moralis-0B0B0B?style=flat-square" alt="Moralis" />
+  <img src="https://img.shields.io/badge/1inch-181922?style=flat-square" alt="1inch" />
+  <img src="https://img.shields.io/badge/LiveCoinWatch-181922?style=flat-square" alt="LiveCoinWatch" />
+  <img src="https://img.shields.io/badge/Connex-15AB62?style=flat-square" alt="VeChain Connex" />
+  <img src="https://img.shields.io/badge/DApp_Kit-15AB62?style=flat-square" alt="VeChain DApp Kit" />
+  <img src="https://img.shields.io/badge/Stacks_Connect-5546FF?style=flat-square" alt="Stacks Connect" />
 </p>
-
 ### 3D, CAD, print & XR
 
 <p>
