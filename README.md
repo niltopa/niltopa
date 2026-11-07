@@ -341,13 +341,8 @@ Shared hosting from early projects through modern app platforms.
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Fly.io-24175B?style=flat-square&logo=flydotio&logoColor=white" alt="Fly.io" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Neon-00E699?style=flat-square" alt="Neon" />
-  <img src="https://img.shields.io/badge/PlanetScale-000000?style=flat-square&logo=planetscale&logoColor=white" alt="PlanetScale" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" alt="Hetzner" />
   <img src="https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white" alt="OVHcloud" />
   <img src="https://img.shields.io/badge/IONOS-003D8F?style=flat-square" alt="IONOS" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
@@ -356,7 +351,6 @@ Shared hosting from early projects through modern app platforms.
   <img src="https://img.shields.io/badge/Namecheap-DE3723?style=flat-square" alt="Namecheap" />
   <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=godaddy&logoColor=black" alt="GoDaddy" />
   <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Let's Encrypt" />
-  <img src="https://img.shields.io/badge/ngrok-1F1E37?style=flat-square" alt="ngrok" />
 </p>
 ### Industrial IoT & connectivity
 
