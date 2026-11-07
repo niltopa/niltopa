@@ -516,15 +516,44 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
 
 ### UAB double degree foundations
 
-[Plan de estudios](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) · Informática (mención Computadores) + Electrónica de Telecomunicación.
+[UAB Escuela de Ingeniería](https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1216708258897.html?param1=1345654053765) · Bellaterra · **5 years / 333 ECTS** · two official degrees:
 
-`Álgebra / Cálculo / Matemática discreta` · `Probabilidad y procesos estocásticos` · `Programación 1–3` · `Teoría de la computación` · `Estructura y arquitectura de computadores` · `Sistemas operativos` · `Bases de datos` · `Ingeniería del software` · `Redes I / II` · `Gestión y administración de redes` · `Información y seguridad` · `Computación en la nube` · `Tecnologías de desarrollo para Internet y Web` · `Inteligencia artificial` · `Datos masivos` · `Programación paralela` · `Programación de sistemas embebidos` · `Sistemas digitales / VHDL` · `Diseño microelectrónico` · `Teoría de circuitos` · `Electrónica analógica` · `Componentes y circuitos` · `Señales y sistemas` · `Señales y sistemas de comunicación` · `Campos y ondas / radiación` · `RF y microondas` · `Electrónica de transmisores y receptores` · `Control de sistemas` · `Instrumentación` · `Circuitos de potencia` · `Ética / gestión de proyectos / legislación`
+1. **Ingeniería Informática**, mención **Ingeniería de Computadores**
+2. **Ingeniería Electrónica de Telecomunicación**
+
+[Plan de estudios](https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1345467893054.html?param1=1345654053765) · internship at NTT DATA **9.9/10** · dual TFG (ESP32CAM): CS **9.1** / Telecom **9.0**
+
+**By year (core path)**
+
+| Year | Focus |
+| --- | --- |
+| **1** | Álgebra, Cálculo, Matemática discreta · Programación 1–2 · Teoría de circuitos y electrónica · Software de sistemas · Señales y sistemas · Teoría de la computación · Organización de empresas |
+| **2** | Sistemas digitales y HDL (anual) · Campos y ondas EM (anual) · Estructura de computadores · SO · Programación 3 · Bases de datos · Probabilidad y procesos estocásticos · Información y seguridad · Redes I / II · Ingeniería del software |
+| **3** | Radiación y ondas guiadas (anual) · Componentes y circuitos · Electrónica analógica · Señales y sistemas discretos · Computación en la nube · Web / Internet · Arquitectura de computadores · IA · Señales y sistemas de comunicación · Ética, proyectos y legislación |
+| **4** | Control de sistemas · Electrónica de Tx/Rx · Datos masivos · Diseño de sistemas electrónicos I–II · Circuitos y tecnologías electrónicas · Microelectrónica I · Programación paralela · Sistemas embebidos · RF y microondas · Gestión y administración de redes |
+| **5** | Instrumentación I–II · Circuitos de potencia · Microelectrónica II · **2× TFG** · optativas (12–18 ECTS) |
+
+**Mención Ingeniería de Computadores** (asignaturas marcadas en el plan): datos masivos, diseño de sistemas electrónicos, microelectrónica, programación paralela, sistemas embebidos, gestión de redes, más una de IoT / dispositivos inteligentes / seguridad de servidores y nube.
+
+**Labs and tooling from the degree**
+
+`VHDL` · `Verilog` · `FPGA` (Intel/Altera Quartus) · `ModelSim` · `RISC-V` (lab processor) · `RTOS` · `PSoC / SoC` · `MATLAB / Simulink` · networking labs · instrumentation and control · RF / microwave circuits
+
+**Knowledge areas**
+
+`Computer architecture` · `Operating systems` · `Databases` · `Software engineering` · `Computer networks` · `InfoSec` · `Cloud and web` · `AI / ML` · `Parallel computing` · `Embedded systems` · `Digital / analog electronics` · `Microelectronics` · `DSP / signals` · `Electromagnetics` · `RF and microwaves` · `Transmitters / receivers` · `Control systems` · `Instrumentation` · `Power electronics` · `Project management and legislation`
 
 <p>
   <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Simulink-e16737?style=flat-square&logo=mathworks&logoColor=white" alt="Simulink" />
   <img src="https://img.shields.io/badge/VHDL-181922?style=flat-square" alt="VHDL" />
-  <img src="https://img.shields.io/badge/HDL-181922?style=flat-square" alt="HDL" />
+  <img src="https://img.shields.io/badge/Verilog-181922?style=flat-square" alt="Verilog" />
+  <img src="https://img.shields.io/badge/FPGA-181922?style=flat-square" alt="FPGA" />
+  <img src="https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Quartus" />
+  <img src="https://img.shields.io/badge/ModelSim-181922?style=flat-square" alt="ModelSim" />
+  <img src="https://img.shields.io/badge/RISC--V-181922?style=flat-square" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/RTOS-E7352C?style=flat-square" alt="RTOS" />
+  <img src="https://img.shields.io/badge/PSoC_/_SoC-181922?style=flat-square" alt="PSoC / SoC" />
   <img src="https://img.shields.io/badge/DSP-1F3FD0?style=flat-square" alt="DSP" />
   <img src="https://img.shields.io/badge/RF_/_Microwaves-e07a45?style=flat-square" alt="RF / Microwaves" />
   <img src="https://img.shields.io/badge/Electromagnetics-181922?style=flat-square" alt="Electromagnetics" />
@@ -542,8 +571,6 @@ Started young with `.bat` scripts and similar Windows automation, desktop apps i
   <img src="https://img.shields.io/badge/AI-7b91ff?style=flat-square" alt="AI" />
   <img src="https://img.shields.io/badge/Computer_Vision-181922?style=flat-square" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/InfoSec-181922?style=flat-square" alt="Information Security" />
-  <img src="https://img.shields.io/badge/App_Inventor-0F9D58?style=flat-square" alt="App Inventor" />
-  <img src="https://img.shields.io/badge/LanguageTool-181922?style=flat-square" alt="LanguageTool" />
 </p>
 
 ### Business systems, IT and security platforms
