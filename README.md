@@ -326,7 +326,6 @@ From the CV, day job, portfolio builds, early LAMP years, the [UAB double-degree
   <img src="https://img.shields.io/badge/GitHub_Desktop-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Desktop" />
   <img src="https://img.shields.io/badge/CI%2FCD-181922?style=flat-square" alt="CI/CD" />
   <img src="https://img.shields.io/badge/DevOps-7b91ff?style=flat-square" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Chocolatey-181922?style=flat-square" alt="Chocolatey" />
 </p>
 
